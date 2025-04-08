@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Virtual Envs
+venv/
+env/
+
+# Data / Models
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.pkl
+*.h5
+*.model
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
